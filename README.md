@@ -12,4 +12,4 @@ Attendance Management System is a web application based on Laravel which keeps t
 
 ## Screenshots
 
-<img width="4167" height="2778" alt="3168553" src="https://github.com/user-attachments/assets/6f6a0e02-13df-40ea-af48-37caedbe7b99" />
+<img width="1500" height="2778" alt="3168553" src="https://github.com/user-attachments/assets/6f6a0e02-13df-40ea-af48-37caedbe7b99" />
